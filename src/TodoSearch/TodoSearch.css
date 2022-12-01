@@ -1,0 +1,14 @@
+.SearchContainer {
+  width: 40%;
+  margin: 25px auto;
+  height: auto;
+  align-items: center;
+}
+.SearchInput {
+  align-items: center;
+  color: #1d3354;
+  border-radius: 8px;
+  width: 100%;
+  font-size: 20px;
+  outline: none;
+}
